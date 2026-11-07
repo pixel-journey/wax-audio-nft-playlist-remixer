@@ -3,7 +3,7 @@
 **Trust label:** `educational-reference`  
 **Catalog:** [wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)
 
-90 plus 90 is 180, under 200. Over 100 is refused. A repeated id is refused. Nothing is played.
+90 plus 90 is 180, under 200. Over 100 is refused. A repeated id is refused. Nothing is played. A track id is not an AtomicAssets asset id, and no schema is read.
 
 The earlier README described a live product. This tree does not ship that.
 
